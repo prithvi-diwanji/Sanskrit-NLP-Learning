@@ -2,6 +2,8 @@
 
 This repository documents my learning journey in combining Sanskrit with Natural Language Processing (NLP). I am currently pursuing an MA in Sanskrit and exploring the computational modeling of Sanskrit texts through annotation, glossing, and structured data.
 
+I have also completed introductory training in Python and basic NLP tools through coursework at Deccan College. This repository includes not only Sanskrit linguistic data, but also experiments and scripts reflecting that training — such as basic tokenization, tagging, and structural modeling of Sanskrit text.
+
 ---
 
 ## 📂 Folder Overview
@@ -25,10 +27,18 @@ Example: `BhagavadGita2-47.md`
 
 ---
 
-## 🛠️ Coming Soon
-- Tokenization experiments using Python
-- Custom WordNet entries
+### `tools-experiments/`
+Python-based scripts and experiments related to Sanskrit NLP, such as:
+- Tokenization tests
 - Sandhi-splitting tools
+- JSON data structures
+
+---
+
+## 🛠️ Coming Soon
+- More annotated sentences and glossed verses
+- Sanskrit WordNet alignment
+- Parser or chunker demo
 
 ---
 
