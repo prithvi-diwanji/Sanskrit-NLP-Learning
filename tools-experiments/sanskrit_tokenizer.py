@@ -1,6 +1,5 @@
 # Sanskrit Tokenizer Script (Beginner Level)
 # Created as part of learning exercises by Prithvi Diwanji
-
 # This script performs simple tokenization of a Sanskrit sentence using whitespace.
 # It was uploaded as part of my learning process in Sanskrit + NLP.
 # I am currently exploring basic tools like tokenizers, glossers, and structured annotation.
